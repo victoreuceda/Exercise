@@ -1,0 +1,8 @@
+#rectangle {
+    width: 70%;
+    height: 50%;
+    background-color: #0000ff;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
